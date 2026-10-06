@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guitarra Acústica",
+    "familia": "Cordófonos",
+    "origen": "civilizaciones de Asia Menor y Oriente Medio",
+    "descripcion": "Usan cuerdas metálicas que entregan un tono fuerte y brillante.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Guitarra Eléctrica",
+    "familia": "Cordófonos",
+    "origen": "desarrollada en la década de 1930 en Estados Unidos",
+    "descripcion": "Instrumento que requiere amplificación para ser escuchado, caracterizado por su sonido versátil y potente.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Guitarra Criolla",
+    "familia": "Cordófonos",
+    "origen": "España, evolución de la vihuela y la guitarra barroca",
+    "descripcion": "Usa cuerdas de nailon que entregan un tono cálido y suave.",
+    "disponible": true
+  },
+  {
+    "id": 4,
+    "nombre": "tambor",
+    "familia": "Membranófonos",
+    "origen": "África, Asia y Europa",
+    "descripcion": "Instrumento de percusión que produce sonidos al ser golpeado.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "bombo",
+    "familia": "Membranófonos",
+    "origen": "África, Asia y Europa",
+    "descripcion": "Instrumento de percusión que produce sonidos al ser golpeado.",
+    "disponible": true
+  },
+  
+  {
+    "id": 6,
+    "nombre": "Ukelele",
+    "familia": "Cordófonos",
+    "origen": "Hawái",
+    "descripcion": "Instrumento de cuerda pulsada.",
+    "disponible": true
+  },
+  {
+    "id": 7,
+    "nombre": "Arpa",
+    "familia": "Cordófonos",
+    "origen": "antiguas civilizaciones de Mesopotamia y Egipto alrededor del año 3000 a. C",
+    "descripcion": "Marco resonante: La estructura de madera que sostiene todo el instrumento.",
+    "disponible": true
+  }
+]
